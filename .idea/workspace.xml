@@ -71,7 +71,7 @@
       <file leaf-file-name="details.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Project/details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="44" selection-start="372" selection-end="386" vertical-scroll-proportion="0.27888447" vertical-offset="0" max-vertical-offset="753">
+            <state line="12" column="6" selection-start="314" selection-end="314" vertical-scroll-proportion="0.23904383" vertical-offset="0" max-vertical-offset="753">
               <folding />
             </state>
           </provider>
@@ -175,6 +175,7 @@
     <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -301,7 +302,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Project/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="44" selection-start="372" selection-end="386" vertical-scroll-proportion="0.27888447" vertical-offset="0" max-vertical-offset="753">
+        <state line="12" column="6" selection-start="314" selection-end="314" vertical-scroll-proportion="0.23904383" vertical-offset="0" max-vertical-offset="753">
           <folding />
         </state>
       </provider>
