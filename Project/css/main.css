@@ -60,3 +60,34 @@ table {
     border-spacing: 0;
 }
 /*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
+body{
+    font-size: 10px;
+}
+.wrapper{
+    width:90%;
+    margin: 0 auto;
+}
+table{
+    width: 700px;
+}
+td,th{
+    border: 1px solid black;
+    padding: 7px 10px;
+}
+.center{
+    text-align: center;
+}
+h1{
+    font-size: 2.40em;
+    padding: 20px 0 0 0;
+}
+h3{
+    font-size: 1.8em;
+    padding: 20px 0 10px 0;
+}
+th{
+    font-size: 1.4em;
+}
+td{
+    font-size: 1.3em;
+}
