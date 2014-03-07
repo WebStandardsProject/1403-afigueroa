@@ -5,7 +5,7 @@ Github Repository: Web Standards Project
 https://github.com/WebStandardsProject/1403-afigueroa
 
 Landing Page:
-http://afigueroa.github.io/WebStandardsProject/1403-afigueroa/index.html
+http://webstandardsproject.github.io/1403-afigueroa/index.html
 
 Home Page:
-http://afigueroa.github.io/WebStandardsProject/1403-afigueroa/Project/index.html
+http://webstandardsproject.github.io/1403-afigueroa/Project/index.html
