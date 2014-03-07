@@ -107,6 +107,9 @@ td a{
     font-weight: bold;
     text-decoration: none;
 }
+td a img{
+    width: 22px;
+}
 #fsHeader{
     width: 84px;
     margin-top: 15px;
