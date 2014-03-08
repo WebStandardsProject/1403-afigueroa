@@ -64,11 +64,12 @@ body{
     font-size: 10px;
 }
 .wrapper{
-    width:90%;
+    width: 1024px;
     margin: 0 auto;
 }
 table{
     width: 700px;
+    border: 1px solid black;
 }
 td,th{
     border: 1px solid black;
@@ -79,6 +80,9 @@ td,th{
 }
 .fLeft{
     float: left;
+}
+.fRight{
+    float: right;
 }
 .clearBoth{
     clear: both;
@@ -93,28 +97,52 @@ h2{
 }
 h3{
     font-size: 2.2em;
-    padding: 30px 0 10px 0;
+    margin: 40px 0 10px 0;
     font-weight: bold;
 }
+table{
+    margin-top: 15px;
+    width: 486px;
+}
 th{
+    margin: 0;
     font-size: 1.8em;
+    padding: 10px 0;
     font-weight: bold;
 }
 td{
     font-size: 1.6em;
+    padding: 10px 0;
+}
+td:first-of-type{
+    padding-left: 10px;
 }
 td a{
+    margin: 0;
+    padding: 0;
     font-weight: bold;
     text-decoration: none;
 }
 td a img{
+    margin: 0;
+    padding: 0;
     width: 22px;
 }
 #fsHeader{
     width: 84px;
-    margin-top: 15px;
+    margin-top: 43px;
 }
 #studentHeader{
-    margin-top: 6px;
-    margin-left: 6px;
+    margin-top: 37px;
+    margin-left: 20px;
+}
+
+.nameColumn{
+    width:220px;
+}
+.midColumn{
+    width: 100px;
+}
+.finalColumn{
+    width: 150px;
 }
