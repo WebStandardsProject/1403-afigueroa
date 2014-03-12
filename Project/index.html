@@ -1,40 +1,49 @@
 <!DOCTYPE html>
-<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
-<!--
-    Antonio Figueroa                        03/04/14
+    <!--
+    ==================================================
 
-    Client: ACME Interactive
-    Project: Skate location search web-tool
+        Antonio Figueroa                  03/04/14
 
-    Page: Home
--->
-<!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
+        Client: ACME Interactive
+        Project: Skate location search web-tool
+
+        Stylesheet: Home page
+
+    ==================================================
+    -->
 <html lang="en">
 <head>
     <meta charset="utf-8">
     <title>SkateGrid.net | Home</title>
-    <link href="css/skeleton.css" rel="stylesheet" type="text/css">
-    <link href="css/base.css" rel="stylesheet" type="text/css">
+    <link href="css/normalize.css" rel="stylesheet" type="text/css">
+    <link href="css/foundation.min.css" rel="stylesheet" type="text/css">
     <link href="css/layout.css" rel="stylesheet" type="text/css">
 </head>
 <body>
-    <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
     <!--
-                       Content Wrapper
+    #Google Map API
+    ==================================================
     -->
-    <div class="wrapper">
-        <nav>
-
-        </nav>
-        <article>
-
-        </article>
+    <div id="google_map">
+        <img width="100%" src="img/photo/map/map.jpg">
+    </div>
+    <!--
+    #UI Content
+    ==================================================
+    -->
+    <div class="twelve columns" id="wrapper">
+        <header class="row"></header>
+        <div id="search_box" class="five columns centered">
+            <input class="nine columns" type="text" placeholder="Find a location..."><img id="search_icon" class="fLeft" src="img/icons/search.png">
+        </div>
     </div>
     <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
     <!--
                          Javascript
     -->
     <script src="js/jQuery.js"></script>
+    <script src="js/modernizr.js"></script>
+    <script src="js/foundation.min.js"></script>
     <script src="js/script.js"></script>
 </body>
 </html>

@@ -1,22 +1,14 @@
-/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
 /*
-   Antonio Figueroa                        03/04/14
+==================================================
+
+   Antonio Figueroa                    03/04/14
 
    Client: ACME Interactive
    Project: Skate location search web-tool
 
    Stylesheet: Main styles
-*/
-/*%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%*/
-/*
-/*
-* Skeleton V1.2
-* Copyright 2011, Dave Gamache
-* www.getskeleton.com
-* Free to use under the MIT license.
-* http://www.opensource.org/licenses/mit-license.php
-* 6/20/2012
-*/
+
+==================================================
 
 /* Table of Content
 ==================================================
@@ -27,7 +19,27 @@
 
 /* #Site Styles
 ================================================== */
+body{
+    position:relative;
+}
 
+.fLeft{float: left}
+.fRight{float: right}
+.centered{margin-right: auto; margin-left: auto;}
+
+#google_map{
+    position: absolute;
+    z-index: 0;
+}
+#wrapper{
+    z-index: 1;
+}
+#search_box{
+    position: relative;
+}
+#search_icon{
+    position: absolute;
+}
 /* #Page Styles
 ================================================== */
 
