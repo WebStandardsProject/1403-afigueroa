@@ -23,11 +23,98 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="25" selection-start="622" selection-end="622" vertical-scroll-proportion="-0.08108108" vertical-offset="390" max-vertical-offset="2085">
+            <state line="109" column="14" selection-start="6201" selection-end="6201" vertical-scroll-proportion="-3.625" vertical-offset="1548" max-vertical-offset="2460">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="36" column="20" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-11.875" vertical-offset="255" max-vertical-offset="1290">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="account.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/account.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="50" column="66" selection-start="1873" selection-end="1873" vertical-scroll-proportion="-23.25" vertical-offset="192" max-vertical-offset="1365">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookmarks.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/bookmarks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="35" selection-start="844" selection-end="844" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="1365">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="details.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/details.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="30" selection-start="854" selection-end="854" vertical-scroll-proportion="-8.958333" vertical-offset="205" max-vertical-offset="1485">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="near-by.html" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/project/near-by.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="27" column="27" selection-start="814" selection-end="814" vertical-scroll-proportion="0.16849315" vertical-offset="282" max-vertical-offset="1140">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="submit-location.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/submit-location.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="28" column="23" selection-start="846" selection-end="846" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="1320">
+              <folding>
+                <element signature="tag#select#0;tag#form#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#select#1;tag#form#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/js/script.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="35" column="3" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/css/layout.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="40" column="20" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="1335">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="foundation.min.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/project/css/foundation.min.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="105">
+              <folding>
+                <element signature="e#75606#75932#1" expanded="true" />
+                <element signature="e#76184#76510#1" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -59,12 +146,13 @@
         <option value="$PROJECT_DIR$/project/css/skeleton.css" />
         <option value="$PROJECT_DIR$/project/css/base.css" />
         <option value="$PROJECT_DIR$/project/css/layout.css" />
-        <option value="$PROJECT_DIR$/project/bookmarks.html" />
-        <option value="$PROJECT_DIR$/project/submit-location.html" />
+        <option value="$PROJECT_DIR$/project/js/script.js" />
+        <option value="$PROJECT_DIR$/project/account.html" />
         <option value="$PROJECT_DIR$/project/near-by.html" />
         <option value="$PROJECT_DIR$/project/details.html" />
-        <option value="$PROJECT_DIR$/project/account.html" />
+        <option value="$PROJECT_DIR$/project/bookmarks.html" />
         <option value="$PROJECT_DIR$/project/index.html" />
+        <option value="$PROJECT_DIR$/project/submit-location.html" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -100,7 +188,6 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -229,6 +316,7 @@
           </PATH>
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -243,14 +331,6 @@
     <property name="SearchEverywhereHistory" value="" />
   </component>
   <component name="RunManager">
-    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
-      <option name="VMOptions" />
-      <option name="arguments" />
-      <option name="filePath" />
-      <option name="scope" value="ALL" />
-      <option name="testName" />
-      <method />
-    </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
       <option name="VMOptions" />
       <option name="arguments" />
@@ -261,15 +341,23 @@
       <option name="showConsoleOnStdOut" value="false" />
       <method />
     </configuration>
+    <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
+      <option name="VMOptions" />
+      <option name="arguments" />
+      <option name="filePath" />
+      <option name="scope" value="ALL" />
+      <option name="testName" />
+      <method />
+    </configuration>
+    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
+      <envs />
+      <method />
+    </configuration>
     <configuration default="true" type="JSTestDriver:ConfigurationType" factoryName="JsTestDriver">
       <setting name="configLocationType" value="CONFIG_FILE" />
       <setting name="settingsFile" value="" />
       <setting name="serverType" value="INTERNAL" />
       <setting name="preferredDebugBrowser" value="CHROME" />
-      <method />
-    </configuration>
-    <configuration default="true" type="JavaScriptTestRunnerKarma" factoryName="Karma" singleton="true" config-file="">
-      <envs />
       <method />
     </configuration>
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug" singleton="true">
@@ -306,11 +394,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -330,6 +418,13 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="34" column="51" selection-start="1124" selection-end="1124" vertical-scroll-proportion="0.0" vertical-offset="390" max-vertical-offset="2085">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="53" column="72" selection-start="2597" selection-end="2597" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2085">
@@ -517,49 +612,78 @@
         <state line="0" column="0" selection-start="0" selection-end="274" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2490" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/project/js/script.js">
+    <entry file="file://$PROJECT_DIR$/project/css/foundation.min.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="777" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="33" column="45" selection-start="941" selection-end="941" vertical-scroll-proportion="0.5816733" vertical-offset="57" max-vertical-offset="810" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/account.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="37" selection-start="118" selection-end="118" vertical-scroll-proportion="0.07968128" vertical-offset="0" max-vertical-offset="753" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="122" selection-end="122" vertical-scroll-proportion="0.07968128" vertical-offset="0" max-vertical-offset="753" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/near-by.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="39" selection-start="120" selection-end="120" vertical-scroll-proportion="0.07968128" vertical-offset="0" max-vertical-offset="753" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/submit-location.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="41" selection-start="122" selection-end="122" vertical-scroll-proportion="0.07968128" vertical-offset="0" max-vertical-offset="753" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/project/bookmarks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="35" selection-start="60" selection-end="214" vertical-scroll-proportion="0.03984064" vertical-offset="0" max-vertical-offset="753" />
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="764">
+          <folding>
+            <element signature="e#75606#75932#1" expanded="true" />
+            <element signature="e#76184#76510#1" expanded="true" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/project/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="12" selection-start="677" selection-end="677" vertical-scroll-proportion="0.13513513" vertical-offset="435" max-vertical-offset="1290" />
+        <state line="40" column="20" selection-start="811" selection-end="811" vertical-scroll-proportion="0.0" vertical-offset="225" max-vertical-offset="1335">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="35" column="3" selection-start="2926" selection-end="2926" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="615">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="20" selection-start="1023" selection-end="1023" vertical-scroll-proportion="-11.875" vertical-offset="255" max-vertical-offset="1290">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="66" selection-start="1873" selection-end="1873" vertical-scroll-proportion="-23.25" vertical-offset="192" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/bookmarks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="35" selection-start="844" selection-end="844" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="1365">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/details.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="30" selection-start="854" selection-end="854" vertical-scroll-proportion="-8.958333" vertical-offset="205" max-vertical-offset="1485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/submit-location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="28" column="23" selection-start="846" selection-end="846" vertical-scroll-proportion="-17.5" vertical-offset="0" max-vertical-offset="1320">
+          <folding>
+            <element signature="tag#select#0;tag#form#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#select#1;tag#form#0;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="25" selection-start="622" selection-end="622" vertical-scroll-proportion="-0.08108108" vertical-offset="390" max-vertical-offset="2085">
+        <state line="109" column="14" selection-start="6201" selection-end="6201" vertical-scroll-proportion="-3.625" vertical-offset="1548" max-vertical-offset="2460">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/project/near-by.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="27" column="27" selection-start="814" selection-end="814" vertical-scroll-proportion="0.16849315" vertical-offset="282" max-vertical-offset="1140">
           <folding />
         </state>
       </provider>

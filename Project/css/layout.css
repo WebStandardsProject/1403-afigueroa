@@ -19,27 +19,30 @@
 
 /* #Site Styles
 ================================================== */
-body{
-    position:relative;
-}
+/*body{*/
+    /*position:relative;*/
+/*}*/
 
-.fLeft{float: left}
-.fRight{float: right}
-.centered{margin-right: auto; margin-left: auto;}
+/*.fLeft{float: left}*/
+/*.fRight{float: right}*/
+/*.centered{margin-right: auto; margin-left: auto;}*/
 
-#google_map{
-    position: absolute;
-    z-index: 0;
-}
-#wrapper{
-    z-index: 1;
-}
-#search_box{
-    position: relative;
-}
-#search_icon{
-    position: absolute;
-}
+/*#google_map{*/
+    /*position: absolute;*/
+    /*z-index: 0;*/
+/*}*/
+/*#wrapper{*/
+    /*z-index: 1;*/
+/*}*/
+/*#search_box{*/
+    /*position: relative;*/
+/*}*/
+/*#search_box input{*/
+    /*width: auto;*/
+/*}*/
+/*#search_icon{*/
+    /*position: absolute;*/
+/*}*/
 /* #Page Styles
 ================================================== */
 
