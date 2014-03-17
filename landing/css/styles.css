@@ -10,6 +10,10 @@ td{
     background-color: #EDDFDF;
     color: #544C4C;
 }
+header h3{
+    color: #EA6E23;
+    background-color: transparent;
+}
 .fixed-width{
     width: 486px;
 }
