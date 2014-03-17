@@ -1,0 +1,15 @@
+th{
+    background-color: #92B8E0;
+    color:  #544C4C;
+}
+body{
+    background-color: #544C4C;
+    color: #EDDFDF;
+}
+td{
+    background-color: #EDDFDF;
+    color: #544C4C;
+}
+.fixed-width{
+    width: 486px;
+}
