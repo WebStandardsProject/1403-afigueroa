@@ -1,4 +1,6 @@
 $(document).ready(function(){
+    $(".login-hide").hide();
+
 //  =========================================================================================================
 //  Country, State and city drop down select
     var country_arr = new Array("Afghanistan", "India", "USA", "Vietnam");
