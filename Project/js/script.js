@@ -1,5 +1,7 @@
 $(document).ready(function(){
-    $(".login-hide").hide();
+    $("#login-toggle").click(function(){
+        $("#login-box").toggle();
+    });
 
 //  =========================================================================================================
 //  Country, State and city drop down select

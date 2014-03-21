@@ -25,6 +25,27 @@
     left: 0;
     top: 0;
 }
+.hide{
+    display: none;
+}
+.column *, .columns *{
+    padding: 15px;
+}
+#login{
+    position: absolute;
+    z-index: 2;
+    left: 600px;
+}
+#login-toggle{
+    float:right;
+}
+#login-box{
+    clear: both;
+    padding:0;
+}
+#login-box form{
+    padding: 0;
+}
 /* #Page Styles
 ================================================== */
 

@@ -23,10 +23,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="44" column="42" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.5418327" vertical-offset="252" max-vertical-offset="1515">
+            <state line="39" column="46" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-8.875" vertical-offset="372" max-vertical-offset="1485">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,16 @@
       <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/js/script.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+            <state line="2" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="26" column="1" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1185">
+            <state line="36" column="11" selection-start="665" selection-end="665" vertical-scroll-proportion="0.55598456" vertical-offset="108" max-vertical-offset="1500">
               <folding />
             </state>
           </provider>
@@ -62,7 +62,7 @@
       <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/styles.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="74" column="1" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1905">
+            <state line="65" column="20" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1995">
               <folding />
             </state>
           </provider>
@@ -88,10 +88,10 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/templar/templar.css" />
-        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/script.js" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
       </list>
     </option>
   </component>
@@ -336,6 +336,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="20" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templar/templar.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="36" column="1" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7410">
@@ -343,30 +350,23 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="26" column="1" selection-start="533" selection-end="533" vertical-scroll-proportion="0.0" vertical-offset="78" max-vertical-offset="1185">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="74" column="1" selection-start="1219" selection-end="1219" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1905">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="0" selection-start="59" selection-end="59" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="645">
+        <state line="2" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="44" column="42" selection-start="1410" selection-end="1410" vertical-scroll-proportion="0.5418327" vertical-offset="252" max-vertical-offset="1515">
+        <state line="39" column="46" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-8.875" vertical-offset="372" max-vertical-offset="1485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="11" selection-start="665" selection-end="665" vertical-scroll-proportion="0.55598456" vertical-offset="108" max-vertical-offset="1500">
           <folding />
         </state>
       </provider>
