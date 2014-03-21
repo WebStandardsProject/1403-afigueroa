@@ -28,6 +28,9 @@ header{
     filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='your_transparent.png', sizingMethod='scale');
     background:none !important;
 }
+.wrapper .row .columns *, .wrapper .row .column *{
+    pointer-events:auto;
+}
 div#nav{
     background-color: transparent;
 }
