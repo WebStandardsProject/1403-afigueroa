@@ -2,6 +2,24 @@ $(document).ready(function(){
     $("#login-toggle").click(function(){
         $("#login-box").toggle();
     });
+    $("#filter-toggle").click(function(){
+        $("#filter-box").toggle();
+    });
+
+
+    function initialize() {
+        var map_canvas = document.getElementById('map_canvas');
+        var map_options = {
+//            San Juan, Coordinates: 18.4500° N, 66.0667° W
+            center: new google.maps.LatLng(18.4500, -66.0667),
+            zoom: 9,
+            mapTypeId: google.maps.MapTypeId.TERRAIN
+        }
+        var map = new google.maps.Map(map_canvas, map_options)
+    }
+    google.maps.event.addDomListener(window, 'load', initialize);
+
+
 
 //  =========================================================================================================
 //  Country, State and city drop down select

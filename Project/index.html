@@ -19,15 +19,14 @@
     <link href="templar/templar.css" rel="stylesheet" type="text/css">
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/layout.css" rel="stylesheet" type="text/css">
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 </head>
 <body>
     <!--
     #Google Map API
     ==================================================
     -->
-    <div class="google-map row">
-        <img class="center" src="img/photo/map/map.jpg">
-    </div>
+    <div id="map_canvas" class="google-map"></div>
     <!--
     #UI Content
     ==================================================
@@ -49,10 +48,10 @@
                                 <button type="button" class="facebook-button">Use Facebook</button>
                             </div>
                             <div class="row">
-                                <label>Username or Email:</label><input type="text">
+                                <label>Username or Email:</label><input type="text" required>
                             </div>
                             <div class="row">
-                                <label>Password:</label><input type="password">
+                                <label>Password:</label><input type="password" required>
                             </div>
                             <div class="row">
                             <label>Remember me:</label><input type="checkbox">
@@ -69,13 +68,13 @@
                                 <button type="button" class="facebook-button">Use Facebook</button>
                             </div>
                             <div class="row">
-                                <label>Email:</label><input type="email">
+                                <label>Email:</label><input type="email" required>
                             </div>
                             <div class="row">
-                                <label>Password:</label><input type="password">
+                                <label>Password:</label><input type="password" required>
                             </div>
                             <div class="row">
-                                <label>Re-type Password:</label><input type="password">
+                                <label>Re-type Password:</label><input type="password" required>
                             </div>
                             <div class="row">
                                 <button type="submit">Submit</button>
@@ -86,9 +85,9 @@
             </div>
         </header>
         <div class="row">
-            <div class="eight columns">
-                <input class="eight columns" type="text" placeholder="Find a location..."><img  class="two column" src="img/icons/search.svg" alt="search, magnifying glass icon">
-            </div>
+            <form class="eight columns" id="search">
+                <input class="eight columns" type="text" placeholder="Find a location..."><input  type="image" value="submit" src="img/icons/search.svg">
+            </form>
             <div class="four columns">
                 <button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" alt="Left arrow icon">
             </div>

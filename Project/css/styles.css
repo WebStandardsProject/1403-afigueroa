@@ -24,6 +24,9 @@ header{
 }
 .wrapper{
     background-color: transparent;
+    pointer-events:none;
+    filter:progid:DXImageTransform.Microsoft.AlphaImageLoader(src='your_transparent.png', sizingMethod='scale');
+    background:none !important;
 }
 div#nav{
     background-color: transparent;
