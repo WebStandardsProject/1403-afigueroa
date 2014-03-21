@@ -26,7 +26,7 @@
     ==================================================
     -->
     <div class="google-map row">
-        <img src="img/photo/map/map.jpg">
+        <img class="center" src="img/photo/map/map.jpg">
     </div>
     <!--
     #UI Content
@@ -35,27 +35,38 @@
     <div class="wrapper">
         <header class="row">
             <div class="column five">
-                <img src="img/trademark.png" alt="Skate grid trademark">
+                <a href="index.html" title="Return home"><img src="img/trademark.png" alt="Skate grid trademark"></a>
             </div>
             <div class="column seven" id="login">
                 <div class="row">
                     <button class="four" id="login-toggle">Login | Sign up</button>
                     <div class="hide" id="login-box">
                         <form class="six columns">
-                            <h5>Login</h5>
                             <div class="row">
-                                <button type="button">Login with Facebook</button>
+                                <h5>Login</h5>
+                            </div>
+                            <div class="row">
+                                <button type="button" class="facebook-button">Use Facebook</button>
                             </div>
                             <div class="row">
                                 <label>Username or Email:</label><input type="text">
+                            </div>
+                            <div class="row">
                                 <label>Password:</label><input type="password">
+                            </div>
+                            <div class="row">
+                            <label>Remember me:</label><input type="checkbox">
+                            </div>
+                            <div class="row">
                                 <button type="submit">Submit</button>
                             </div>
                         </form>
                         <form class="six columns">
-                            <h5>Sign up</h5>
                             <div class="row">
-                                <button type="button">Sign up with Facebook</button>
+                                <h5>Sign up</h5>
+                            </div>
+                            <div class="row">
+                                <button type="button" class="facebook-button">Use Facebook</button>
                             </div>
                             <div class="row">
                                 <label>Email:</label><input type="email">
@@ -75,8 +86,12 @@
             </div>
         </header>
         <div class="row">
-            <input type="text" placeholder="Find a location..."><img src="img/icons/search.svg" alt="search, magnifying glass icon">
-            <button type="button">Filter</button><img src="img/icons/left-arrow.svg" alt="Left arrow icon">
+            <div class="eight columns">
+                <input class="eight columns" type="text" placeholder="Find a location..."><img  class="two column" src="img/icons/search.svg" alt="search, magnifying glass icon">
+            </div>
+            <div class="four columns">
+                <button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" alt="Left arrow icon">
+            </div>
         </div>
         <div class="row">
             <img src="img/icons/pin.svg">

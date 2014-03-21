@@ -15,8 +15,9 @@
 <head>
     <meta charset="utf-8">
     <title>SkateGrid.net | Submit location</title>
-    <link href="css/normalize.css" rel="stylesheet" type="text/css">
-    <link href="css/foundation.min.css" rel="stylesheet" type="text/css">
+    <link href="templar/normalize.css" rel="stylesheet" type="text/css">
+    <link href="templar/templar.css" rel="stylesheet" type="text/css">
+    <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/layout.css" rel="stylesheet" type="text/css">
 </head>
 <body>
@@ -25,38 +26,54 @@
                        Content Wrapper
     -->
     <div class="wrapper">
-        <header class="row">
-            <img src="img/icons/skategrid_trademark.png" alt="Skate grid trademark">
-            <button>Login | Sign up</button>
-            <article class="hide">
-                <section>
-                    <h5>Login</h5>
-                    <div>
-                        <button type="button">Login with Facebook</button>
-                    </div>
-                    <div>
-                        <label>Username or Email:</label><input type="text">
-                        <label>Password:</label><input type="password">
-                        <button type="submit">Submit</button>
-                    </div>
-                </section>
-                <section>
-                    <h5>Sign up</h5>
-                    <div>
-                        <button type="button">Sign up with Facebook</button>
-                    </div>
-                    <div>
-                        <label>Email:</label><input type="email">
-                        <label>Password:</label><input type="password">
-                        <label>Re-type Password:</label><input type="password">
-                        <button type="submit">Submit</button>
-                    </div>
-                </section>
-            </article>
-        </header>
+    <header class="row">
+        <div class="column five">
+            <a href="index.html" title="Return home"><img src="img/trademark.png" alt="Skate grid trademark"></a>
+        </div>
+        <div class="column seven" id="login">
+            <div class="row">
+                <button class="four" id="login-toggle">Login | Sign up</button>
+                <div class="hide" id="login-box">
+                    <form class="six columns">
+                        <h5>Login</h5>
+                        <div class="row">
+                            <button type="button">Login with Facebook</button>
+                        </div>
+                        <div class="row">
+                            <label>Username or Email:</label><input type="text">
+                            <label>Password:</label><input type="password">
+                            <button type="submit">Submit</button>
+                        </div>
+                    </form>
+                    <form class="six columns">
+                        <h5>Sign up</h5>
+                        <div class="row">
+                            <button type="button">Sign up with Facebook</button>
+                        </div>
+                        <div class="row">
+                            <label>Email:</label><input type="email">
+                        </div>
+                        <div class="row">
+                            <label>Password:</label><input type="password">
+                        </div>
+                        <div class="row">
+                            <label>Re-type Password:</label><input type="password">
+                        </div>
+                        <div class="row">
+                            <button type="submit">Submit</button>
+                        </div>
+                    </form>
+                </div>
+            </div>
+        </div>
+    </header>
         <div class="row">
-            <input type="text" placeholder="Find a location..."><img src="img/icons/search.png" alt="search, magnifying glass icon">
-            <button type="button">Filter</button><img src="left_arrow.png" alt="Left arrow icon">
+            <div class="eight columns">
+                <input class="eight columns" type="text" placeholder="Find a location..."><img  class="two column" src="img/icons/search.svg" alt="search, magnifying glass icon">
+            </div>
+            <div class="four columns">
+                <button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" alt="Left arrow icon">
+            </div>
         </div>
         <h1>Submit a location</h1>
         <form>

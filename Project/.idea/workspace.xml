@@ -23,55 +23,55 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="39" column="46" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-8.875" vertical-offset="372" max-vertical-offset="1485">
+            <state line="39" column="31" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.36486486" vertical-offset="315" max-vertical-offset="1710">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="script.js" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/js/script.js">
+      <file leaf-file-name="account.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="2" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+            <state line="39" column="77" selection-start="1486" selection-end="1486" vertical-scroll-proportion="-7.7083335" vertical-offset="400" max-vertical-offset="1620">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="layout.css" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <file leaf-file-name="bookmarks.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookmarks.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="11" selection-start="665" selection-end="665" vertical-scroll-proportion="0.55598456" vertical-offset="108" max-vertical-offset="1500">
+            <state line="30" column="117" selection-start="1031" selection-end="1031" vertical-scroll-proportion="-5.8333335" vertical-offset="310" max-vertical-offset="1620">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="templar.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templar/templar.css">
+      <file leaf-file-name="details.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/details.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="36" column="1" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7410">
+            <state line="30" column="117" selection-start="1046" selection-end="1046" vertical-scroll-proportion="-16.25" vertical-offset="60" max-vertical-offset="1740">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="styles.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <file leaf-file-name="near-by.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/near-by.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="65" column="20" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1995">
+            <state line="30" column="117" selection-start="1038" selection-end="1038" vertical-scroll-proportion="-5.2083335" vertical-offset="325" max-vertical-offset="1395">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="normalize.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templar/normalize.css">
+      <file leaf-file-name="submit-location.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/submit-location.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6240">
+            <state line="31" column="14" selection-start="1048" selection-end="1048" vertical-scroll-proportion="28.541666" vertical-offset="1150" max-vertical-offset="6465">
               <folding />
             </state>
           </provider>
@@ -88,8 +88,13 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/templar/templar.css" />
-        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/details.html" />
+        <option value="$PROJECT_DIR$/bookmarks.html" />
+        <option value="$PROJECT_DIR$/near-by.html" />
+        <option value="$PROJECT_DIR$/submit-location.html" />
+        <option value="$PROJECT_DIR$/account.html" />
+        <option value="$PROJECT_DIR$/css/styles.css" />
         <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/css/layout.css" />
       </list>
@@ -126,6 +131,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -186,6 +192,28 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
+              <option name="myItemId" value="photo" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="map" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Project" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="img" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
               <option name="myItemId" value="icons" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -206,12 +234,12 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../../../Templar v1.5" />
     <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -277,11 +305,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -301,6 +329,90 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="46" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="267" max-vertical-offset="1485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="17" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templar/templar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="1" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="20" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templar/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="50" column="46" selection-start="1799" selection-end="1799" vertical-scroll-proportion="0.0" vertical-offset="402" max-vertical-offset="1485">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/js/script.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="2" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="30" max-vertical-offset="675">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="48" column="17" selection-start="805" selection-end="805" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templar/templar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="1" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="65" column="20" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1995">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templar/normalize.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6240">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="79" column="7" selection-start="2822" selection-end="2822" vertical-scroll-proportion="0.0" vertical-offset="132" max-vertical-offset="1290">
@@ -329,6 +441,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/img/photo/map/map.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/templar/templar.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="36" column="1" selection-start="802" selection-end="802" vertical-scroll-proportion="0.6167109" vertical-offset="75" max-vertical-offset="7410">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templar/normalize.css">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6240">
@@ -336,37 +460,65 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="65" column="20" selection-start="1063" selection-end="1063" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1995">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/templar/templar.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="1" selection-start="802" selection-end="802" vertical-scroll-proportion="0.0" vertical-offset="75" max-vertical-offset="7410">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="2" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="675">
+        <state line="2" column="31" selection-start="102" selection-end="102" vertical-scroll-proportion="0.039267015" vertical-offset="0" max-vertical-offset="764">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="39" column="46" selection-start="1188" selection-end="1188" vertical-scroll-proportion="-8.875" vertical-offset="372" max-vertical-offset="1485">
+        <state line="30" column="117" selection-start="1046" selection-end="1046" vertical-scroll-proportion="-16.25" vertical-offset="60" max-vertical-offset="1740">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="117" selection-start="1031" selection-end="1031" vertical-scroll-proportion="-5.8333335" vertical-offset="310" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="16" column="2" selection-start="308" selection-end="308" vertical-scroll-proportion="-3.3636363" vertical-offset="55" max-vertical-offset="1995">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="36" column="11" selection-start="665" selection-end="665" vertical-scroll-proportion="0.55598456" vertical-offset="108" max-vertical-offset="1500">
+        <state line="38" column="18" selection-start="686" selection-end="686" vertical-scroll-proportion="0.32818532" vertical-offset="315" max-vertical-offset="2025">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/near-by.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="30" column="117" selection-start="1038" selection-end="1038" vertical-scroll-proportion="-5.2083335" vertical-offset="325" max-vertical-offset="1395">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/submit-location.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="31" column="14" selection-start="1048" selection-end="1048" vertical-scroll-proportion="28.541666" vertical-offset="1150" max-vertical-offset="6465">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="77" selection-start="1486" selection-end="1486" vertical-scroll-proportion="-7.7083335" vertical-offset="400" max-vertical-offset="1620">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="39" column="31" selection-start="1233" selection-end="1233" vertical-scroll-proportion="0.36486486" vertical-offset="315" max-vertical-offset="1710">
           <folding />
         </state>
       </provider>
