@@ -24,6 +24,7 @@
     position: absolute;
     left: 0;
     top: 0;
+    width: 100%;
 }
 .hide{
     display: none;
@@ -36,15 +37,23 @@
 }
 #search{
     background-color: transparent;
+    margin-left: 55px;
 }
 #search input{
    margin: 15px 0;
 }
+#search-icon{
+
+}
+.icons{
+    width: 65px;
+    height: 65px;
+}
 #login{
     position: absolute;
-    margin-top: 15px;
+    /*margin-top: 15px;*/
     z-index: 2;
-    left: 575px;
+    left: 550px;
 }
 #login-toggle{
     float:right;
@@ -66,7 +75,10 @@
 }
 #filter{
     margin: 15px 0;
-    height: 65px;
+    /*height: 65px;*/
+}
+#filter-icon{
+
 }
 .facebook-button{
     background-color: mediumblue;

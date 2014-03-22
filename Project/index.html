@@ -15,11 +15,23 @@
 <head>
     <meta charset="utf-8">
     <title>SkateGrid.net | Home</title>
+    <!--
+                       Google Map API
+    -->
+    <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
+    <!--
+                         Normalize
+    -->
     <link href="templar/normalize.css" rel="stylesheet" type="text/css">
+    <!--
+                        Templar CSS
+    -->
     <link href="templar/templar.css" rel="stylesheet" type="text/css">
+    <!--
+                         My Styles
+    -->
     <link href="css/styles.css" rel="stylesheet" type="text/css">
     <link href="css/layout.css" rel="stylesheet" type="text/css">
-    <script src="https://maps.googleapis.com/maps/api/js?sensor=false"></script>
 </head>
 <body>
     <!--
@@ -32,14 +44,38 @@
     ==================================================
     -->
     <div class="wrapper">
-        <header class="row">
-            <div class="column five">
+        <header class="row">            <!--Top bar-->
+            <!--
+                                           Trademark
+            -->
+            <div class="column two">
                 <a href="index.html" title="Return home"><img src="img/trademark.png" alt="Skate grid trademark"></a>
             </div>
+            <!--
+                                            Search
+            -->
+            <form class="three columns" id="search">
+                <input class="eight columns" type="text" placeholder="Find a location..."><input class="icon" type="image" value="submit" src="img/icons/search.svg" alt="Search button">
+            </form>
+            <!--
+                                            Filter
+            -->
+            <div class="three columns">
+                <button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" class="icon" alt="Left arrow icon">
+            </div>
+            <!--
+                                        Login
+            -->
             <div class="column seven" id="login">
                 <div class="row">
-                    <button class="four" id="login-toggle">Login | Sign up</button>
+                    <button class="three" id="login-toggle">Login | Sign up</button>
+                    <!--
+                                   Login / Sign up box
+                    -->
                     <div class="hide" id="login-box">
+                        <!--
+                                        Login
+                        -->
                         <form class="six columns">
                             <div class="row">
                                 <h5>Login</h5>
@@ -60,6 +96,9 @@
                                 <button type="submit">Submit</button>
                             </div>
                         </form>
+                        <!--
+                                      Sign up
+                        -->
                         <form class="six columns">
                             <div class="row">
                                 <h5>Sign up</h5>
@@ -76,6 +115,14 @@
                             <div class="row">
                                 <label>Re-type Password:</label><input type="password" required>
                             </div>
+                            <noscript>
+                                <iframe src="http://www.google.com/recaptcha/api/noscript?k=your_public_key"
+                                        height="300" width="500" frameborder="0"></iframe><br>
+                                <textarea name="recaptcha_challenge_field" rows="3" cols="40">
+                                </textarea>
+                                <input type="hidden" name="recaptcha_response_field"
+                                       value="manual_challenge">
+                            </noscript>
                             <div class="row">
                                 <button type="submit">Submit</button>
                             </div>
@@ -84,25 +131,28 @@
                 </div>
             </div>
         </header>
+        <!--<div class="row">-->
+            <!--<form class="eight columns" id="search">-->
+                <!--<input class="eight columns" type="text" placeholder="Find a location..."><input  type="image" value="submit" src="img/icons/search.svg">-->
+            <!--</form>-->
+            <!--<div class="four columns">-->
+                <!--<button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" alt="Left arrow icon">-->
+            <!--</div>-->
+        <!--</div>-->
+        <!--
+                   Find me pin button
+        -->
         <div class="row">
-            <form class="eight columns" id="search">
-                <input class="eight columns" type="text" placeholder="Find a location..."><input  type="image" value="submit" src="img/icons/search.svg">
-            </form>
-            <div class="four columns">
-                <button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" alt="Left arrow icon">
-            </div>
-        </div>
-        <div class="row">
-            <img src="img/icons/pin.svg">
+            <img  alt="Find my location button" src="img/icons/pin.svg">
         </div>
     </div>
     <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
     <!--
                          Javascript
     -->
-    <script src="js/jQuery.js"></script>
-    <script src="js/modernizr.js"></script>
-    <script src="js/foundation.min.js"></script>
-    <script src="js/script.js"></script>
+    <script type="text/javascript" src="js/jQuery.js"></script>
+    <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=your_public_key"></script>
+    <script type="text/javascript" src="js/modernizr.js"></script>
+    <script type="text/javascript" src="js/script.js"></script>
 </body>
 </html>
