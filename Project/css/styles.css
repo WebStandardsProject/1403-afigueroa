@@ -23,7 +23,8 @@ body{
     /*height: 100%;*/
 }
 header{
-    /*background-color: black;*/
+    width: 100%;
+    background-color: #fccc13;
 }
 .wrapper{
     background-color: transparent;
@@ -34,8 +35,8 @@ header{
 .wrapper .row .columns *, .wrapper .row .column *{
     pointer-events:auto;
 }
-div#nav{
-    background-color: transparent;
+nav{
+    background-color: #fccc13;
 }
 nav ul{
     background-color: #695848;

@@ -32,8 +32,8 @@ body{
 .wrapper{
     width: 90%;
     margin: 0 auto;
-    position: relative;
-    padding: 25px 0;
+    /*position: relative;*/
+    /*padding: 25px 0;*/
 }
 .row .column *, .row .columns *{
     /*padding: 0 0.83333rem;*/
