@@ -25,70 +25,127 @@
     <!--
                        Content Wrapper
     -->
-    <div class="wrapper">
-        <header class="row">
-            <div class="column five">
-                <a href="index.html" title="Return home"><img src="img/trademark.png" alt="Skate grid trademark"></a>
-            </div>
-            <div class="column seven" id="login">
-                <div class="row">
-                    <button class="four" id="login-toggle">Login | Sign up</button>
-                    <div class="hide" id="login-box">
-                        <form class="six columns">
-                            <h5>Login</h5>
-                            <div class="row">
-                                <button type="button">Login with Facebook</button>
-                            </div>
-                            <div class="row">
-                                <label>Username or Email:</label><input type="text">
-                                <label>Password:</label><input type="password">
-                                <button type="submit">Submit</button>
-                            </div>
-                        </form>
-                        <form class="six columns">
-                            <h5>Sign up</h5>
-                            <div class="row">
-                                <button type="button">Sign up with Facebook</button>
-                            </div>
-                            <div class="row">
-                                <label>Email:</label><input type="email">
-                            </div>
-                            <div class="row">
-                                <label>Password:</label><input type="password">
-                            </div>
-                            <div class="row">
-                                <label>Re-type Password:</label><input type="password">
-                            </div>
-                            <div class="row">
-                                <button type="submit">Submit</button>
-                            </div>
-                        </form>
+    <header>
+        <div class="wrapper">
+            <div class="twelve columns">
+                <!--
+                                               Trademark
+                -->
+                <div class="column three" id="trademark">
+                    <a href="index.html" title="Return home"><img src="img/trademark.png" alt="Skate grid trademark"></a>
+                </div>
+                <!--
+                                                  Login
+                -->
+                <div class="column four" id="login">
+                    <div class="row">
+                        <button class="five" id="login-toggle">Login | Sign up</button>
+                        <!--
+                                            Login / Sign up box
+                        -->
+                        <div class="hide" id="login-box">
+                            <!--
+                                                 Login
+                            -->
+                            <form class="six columns">
+                                <div class="row">
+                                    <h5>Login</h5>
+                                </div>
+                                <div class="row">
+                                    <button type="button" class="facebook-button">Use Facebook</button>
+                                </div>
+                                <div class="row">
+                                    <label>Username or Email:</label><input type="text" required>
+                                </div>
+                                <div class="row">
+                                    <label>Password:</label><input type="password" required>
+                                </div>
+                                <div class="row">
+                                    <label>Remember me:</label><input type="checkbox">
+                                </div>
+                                <div class="row">
+                                    <button type="submit">Submit</button>
+                                </div>
+                            </form>
+                            <!--
+                                                 Sign up
+                            -->
+                            <form class="six columns">
+                                <div class="row">
+                                    <h5>Sign up</h5>
+                                </div>
+                                <div class="row">
+                                    <button type="button" class="facebook-button">Use Facebook</button>
+                                </div>
+                                <div class="row">
+                                    <label>Email:</label><input type="email" required>
+                                </div>
+                                <div class="row">
+                                    <label>Password:</label><input type="password" required>
+                                </div>
+                                <div class="row">
+                                    <label>Re-type Password:</label><input type="password" required>
+                                </div>
+                                <noscript>
+                                    <iframe src="http://www.google.com/recaptcha/api/noscript?k=your_public_key"
+                                            height="300" width="500" frameborder="0"></iframe><br>
+                                    <textarea name="recaptcha_challenge_field" rows="3" cols="40">
+                                    </textarea>
+                                    <input type="hidden" name="recaptcha_response_field"
+                                           value="manual_challenge">
+                                </noscript>
+                                <div class="row">
+                                    <button type="submit">Submit</button>
+                                </div>
+                            </form>
+                        </div>
                     </div>
                 </div>
             </div>
-        </header>
+        </div>
+    </header>
+    <div class="wrapper">
         <div class="row">
-            <div class="eight columns">
-                <input class="eight columns" type="text" placeholder="Find a location..."><img  class="two column" src="img/icons/search.svg" alt="search, magnifying glass icon">
-            </div>
-            <div class="four columns">
-                <button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" alt="Left arrow icon">
+            <div class="twelve columns">
+                <div class="eight center" id="search-box">
+                    <!--
+                                                    Search
+                    -->
+                    <form class="five columns" id="search">
+                        <input class="icon" type="image" value="submit" src="img/icons/search.svg" alt="Search button"><input class="eight columns" type="text" placeholder="Find a location...">
+                    </form>
+                    <!--
+                                                    Filter
+                    -->
+                    <div class="four columns">
+                        <button id="filter" class="five column" type="button">Filter</button><img src="img/icons/down-arrow.svg" class="icon" alt="Left arrow icon">
+                    </div>
+                </div>
             </div>
         </div>
-        <div>
-            <h1>Bookmarks</h1>
-            <table>
-                <tr>
-                    <th>Name</th>
-                    <th>Location</th>
-                    <th>Link</th>
-                </tr>
-                <tr>
-                    <td>Balboa Skate Park</td>
-                    <td>San Francisco, CA, USA</td>
-                    <td><img src="img/icons/hyperlink.svg"></td>
-                </tr>
-            </table>
+    </div>
+    <div class="wrapper">
+        <div class="row" id="top-row">
+            <h1 class="twelve columns">Bookmarks</h1>
+            <div class="row">
+                <table class="seven columns">
+                    <tr class="twelve">
+                        <th class="five">Name</th>
+                        <th class="five">Location</th>
+                        <th class="two">Link</th>
+                    </tr>
+                    <tr class="twelve">
+                        <td class="five">Balboa Skate Park</td>
+                        <td class="five">San Francisco, CA, USA</td>
+                        <td class="two"><a href="details.html"><img src="img/icons/hyperlink.svg"></a></td>
+                    </tr>
+                </table>
+                <div class="five columns color1">
+                    <div class="center six">
+                        <p class="center">Featured location goes here</p>
+                    </div>
+                </div>
+            </div>
         </div>
     </div>
     <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
@@ -96,7 +153,7 @@
                          Javascript
     -->
     <script type="text/javascript" src="js/jQuery.js"></script>
-    <script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=your_public_key"></script>
+    <!--<script type="text/javascript" src="http://www.google.com/recaptcha/api/challenge?k=your_public_key"></script>-->
     <script type="text/javascript" src="js/modernizr.js"></script>
     <script type="text/javascript" src="js/script.js"></script>
 </body>

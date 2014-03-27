@@ -15,12 +15,22 @@
 /*
            Color Scheme
 */
+.color1{
+    background-color: #575555;
+    color: white;
+}
+#top-row{
+    margin-top: 50px;
+}
 body{
-    background-color: transparent;
+    background-color: #d7d8d7;
     color: #575555;
     /*position: relative;*/
     /*width: 100%;*/
     /*height: 100%;*/
+}
+tr, th,td{
+    border: 1px solid #000000;
 }
 header{
     width: 100%;
