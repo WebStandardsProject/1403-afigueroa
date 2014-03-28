@@ -49,22 +49,22 @@
                             -->
                             <form class="six columns">
                                 <div class="row">
-                                    <h5>Login</h5>
+                                    <h5 class="twelve columns">Login</h5>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="facebook-button">Use Facebook</button>
+                                    <button type="button" class="facebook-button" formaction="account.html">Use Facebook</button>
                                 </div>
                                 <div class="row">
-                                    <label>Username or Email:</label><input type="text" required>
+                                    <label>Username or Email:</label><input type="text" >
                                 </div>
                                 <div class="row">
-                                    <label>Password:</label><input type="password" required>
+                                    <label>Password:</label><input type="password" >
                                 </div>
                                 <div class="row">
                                     <label>Remember me:</label><input type="checkbox">
                                 </div>
                                 <div class="row">
-                                    <button type="submit">Submit</button>
+                                    <button type="submit" formaction="account.html" class="form-submit">Submit</button>
                                 </div>
                             </form>
                             <!--
@@ -75,16 +75,16 @@
                                     <h5>Sign up</h5>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="facebook-button">Use Facebook</button>
+                                    <button type="button" class="facebook-button" formaction="account.html">Use Facebook</button>
                                 </div>
                                 <div class="row">
-                                    <label>Email:</label><input type="email" required>
+                                    <label>Email:</label><input type="email" >
                                 </div>
                                 <div class="row">
-                                    <label>Password:</label><input type="password" required>
+                                    <label>Password:</label><input type="password" >
                                 </div>
                                 <div class="row">
-                                    <label>Re-type Password:</label><input type="password" required>
+                                    <label>Re-type Password:</label><input type="password" >
                                 </div>
                                 <noscript>
                                     <iframe src="http://www.google.com/recaptcha/api/noscript?k=your_public_key"
@@ -95,7 +95,7 @@
                                            value="manual_challenge">
                                 </noscript>
                                 <div class="row">
-                                    <button type="submit">Submit</button>
+                                    <button type="submit" formaction="account.html">Submit</button>
                                 </div>
                             </form>
                         </div>
@@ -112,7 +112,7 @@
                                                     Search
                     -->
                     <form class="five columns" id="search">
-                        <input class="icon" type="image" value="submit" src="img/icons/search.svg" alt="Search button"><input class="eight columns" type="text" placeholder="Find a location...">
+                        <input class="icon" type="image" value="submit" src="img/icons/search.svg" alt="Search button" formaction="details.html"><input class="eight columns" type="text" placeholder="Find a location...">
                     </form>
                     <!--
                                                     Filter
@@ -123,29 +123,35 @@
                 </div>
             </div>
          </div>
-        <div class="five columns">
-            <h1>Balboa Skate Park</h1>
-            <h5>San Francisco, CA, USA</h5>
-        </div>
-        <div>
-            <h3>About</h3>
-            <p>A crowd of skateboard enthusiasts, both the young and young-at-heart, were on hand on Saturday, September 29, for the grand opening of the new skate park at Balboa Park. The skate park project, a partnership with the Trust for Public Land, was part of a larger renovation of the park that included the construction of a new playground, resurfaced tennis courts, new picnic areas and improved pathways and landscaping.  Next time you're in the area, stop by Balboa Park and "Get out and skate!"</p>
-            <p>Published by:</p><p>SF Rec Park, on October 2, 2012</p>
-        </div>
-        <article>
-            <section>
-                <img src="img/icons/reviews.png" alt="Reviews icon">
-                <h3>Reviews</h3>
-            </section>
-            <section>
-                <img src="img/icons/community.png" alt="community icon">
-                <h3>Community</h3>
-            </section>
-            <section>
-                <img src="img/icons/near_by.png" alt="Near by icon">
-                <h3>Near by</h3>
-            </section>
+    </div>
+    <div class="wrapper">
+        <div class="row" id="top-row">
+            <div class="twelve columns">
+                <h1 class="twelve columns main-header">Balboa Skate Park</h1>
+                <h5 class="twelve columns sub-header">San Francisco, CA, USA</h5>
+            </div>
+            <div class="seven columns" id="details">
+                <h3>About</h3>
+                <p>A crowd of skateboard enthusiasts, both the young and young-at-heart, were on hand on Saturday, September 29, for the grand opening of the new skate park at Balboa Park. The skate park project, a partnership with the Trust for Public Land, was part of a larger renovation of the park that included the construction of a new playground, resurfaced tennis courts, new picnic areas and improved pathways and landscaping.  Next time you're in the area, stop by Balboa Park and "Get out and skate!"</p>
+                <div class="row">
+                    <p class="fleft">Published by:</p><p class="fleft">SF Rec Park, on October 2, 2012</p>
+                </div>
+            </div>
+            <article class="five columns">
+                <section class="row">
+                    <img src="img/icons/reviews.png" alt="Reviews icon">
+                    <h3>Reviews</h3>
+                </section>
+                <section>
+                    <img src="img/icons/community.png" alt="community icon">
+                    <h3>Community</h3>
+                </section>
+                <section>
+                    <img src="img/icons/near_by.png" alt="Near by icon">
+                    <h3>Near by</h3>
+                </section>
         </article>
+        </div>
     </div>
     <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
     <!--

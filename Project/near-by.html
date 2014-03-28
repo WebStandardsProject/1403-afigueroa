@@ -52,19 +52,19 @@
                                     <h5>Login</h5>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="facebook-button">Use Facebook</button>
+                                    <button type="button" class="facebook-button" formaction="account.html">Use Facebook</button>
                                 </div>
                                 <div class="row">
-                                    <label>Username or Email:</label><input type="text" required>
+                                    <label>Username or Email:</label><input type="text" >
                                 </div>
                                 <div class="row">
-                                    <label>Password:</label><input type="password" required>
+                                    <label>Password:</label><input type="password" >
                                 </div>
                                 <div class="row">
                                     <label>Remember me:</label><input type="checkbox">
                                 </div>
                                 <div class="row">
-                                    <button type="submit">Submit</button>
+                                    <button type="submit" formaction="account.html">Submit</button>
                                 </div>
                             </form>
                             <!--
@@ -75,16 +75,16 @@
                                     <h5>Sign up</h5>
                                 </div>
                                 <div class="row">
-                                    <button type="button" class="facebook-button">Use Facebook</button>
+                                    <button type="button" class="facebook-button" formaction="account.html">Use Facebook</button>
                                 </div>
                                 <div class="row">
-                                    <label>Email:</label><input type="email" required>
+                                    <label>Email:</label><input type="email" >
                                 </div>
                                 <div class="row">
-                                    <label>Password:</label><input type="password" required>
+                                    <label>Password:</label><input type="password" >
                                 </div>
                                 <div class="row">
-                                    <label>Re-type Password:</label><input type="password" required>
+                                    <label>Re-type Password:</label><input type="password" >
                                 </div>
                                 <noscript>
                                     <iframe src="http://www.google.com/recaptcha/api/noscript?k=your_public_key"
@@ -95,7 +95,7 @@
                                            value="manual_challenge">
                                 </noscript>
                                 <div class="row">
-                                    <button type="submit">Submit</button>
+                                    <button type="submit" formaction="account.html">Submit</button>
                                 </div>
                             </form>
                         </div>
@@ -112,7 +112,7 @@
                                                     Search
                     -->
                     <form class="five columns" id="search">
-                        <input class="icon" type="image" value="submit" src="img/icons/search.svg" alt="Search button"><input class="eight columns" type="text" placeholder="Find a location...">
+                        <input class="icon" type="image" value="submit" src="img/icons/search.svg" alt="Search button" formaction="details.html"><input class="eight columns" type="text" placeholder="Find a location...">
                     </form>
                     <!--
                                                     Filter
@@ -123,6 +123,7 @@
                 </div>
             </div>
         </div>
+    </div>
     <!--%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%-->
     <!--
                          Javascript
