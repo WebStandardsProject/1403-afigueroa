@@ -40,6 +40,33 @@ header{
 #search-box, #content{
     margin-top: 100px;
 }
+#submit-location label{
+    text-align: left;
+}
+#submit-location input{
+    height: 20px;
+    min-height: 20px;
+    margin-left: 3.75%;
+}
+#submit-location select{
+    margin-left: 3.75%;
+    padding:3px 0;
+}
+#submit-location option{
+
+}
+/*#submit-location .no-padding-left{*/
+    /*padding-left: 0; */
+/*}*/
+#submit-location.no-margin-left *{
+    margin-left: 0;
+}
+.fleft{
+    float: left;
+}
+.fright{
+    float: right;
+}
 .hide{
     display: none;
 }
