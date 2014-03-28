@@ -23,84 +23,14 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="account.html" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="account.html" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/account.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="22" selection-start="4916" selection-end="4916" vertical-scroll-proportion="-22.666666" vertical-offset="41" max-vertical-offset="1200">
+            <state line="132" column="9" selection-start="6225" selection-end="6230" vertical-scroll-proportion="0.562701" vertical-offset="240" max-vertical-offset="1440">
               <folding>
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+                <element signature="tag#div#2;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="details.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/details.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="22" selection-start="4935" selection-end="4935" vertical-scroll-proportion="-24.291666" vertical-offset="2" max-vertical-offset="1185">
-              <folding>
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="bookmarks.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/bookmarks.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="22" selection-start="4920" selection-end="4920" vertical-scroll-proportion="-23.333334" vertical-offset="25" max-vertical-offset="1185">
-              <folding>
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="submit-location.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/submit-location.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="22" selection-start="4934" selection-end="4934" vertical-scroll-proportion="-24.375" vertical-offset="0" max-vertical-offset="1170">
-              <folding>
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="61" column="16" selection-start="1795" selection-end="5396" vertical-scroll-proportion="-26.041666" vertical-offset="290" max-vertical-offset="1245">
-              <folding>
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="near-by.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/near-by.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="102" column="22" selection-start="4927" selection-end="4927" vertical-scroll-proportion="0.62700963" vertical-offset="0" max-vertical-offset="933">
-              <folding>
-                <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-                <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="templar.css" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/templar/templar.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="30" column="1" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7410">
-              <folding />
             </state>
           </provider>
         </entry>
@@ -108,8 +38,19 @@
       <file leaf-file-name="layout.css" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="92" column="17" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="3555">
+            <state line="24" column="1" selection-start="508" selection-end="508" vertical-scroll-proportion="-6.5454545" vertical-offset="0" max-vertical-offset="4125">
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="bookmarks.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bookmarks.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="130" column="12" selection-start="6151" selection-end="6151" vertical-scroll-proportion="-30.625" vertical-offset="0" max-vertical-offset="1305">
+              <folding>
+                <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -125,15 +66,16 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/js/script.js" />
+        <option value="$PROJECT_DIR$/near-by.html" />
         <option value="$PROJECT_DIR$/templar/templar.css" />
         <option value="$PROJECT_DIR$/css/styles.css" />
-        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/account.html" />
-        <option value="$PROJECT_DIR$/details.html" />
         <option value="$PROJECT_DIR$/bookmarks.html" />
         <option value="$PROJECT_DIR$/submit-location.html" />
-        <option value="$PROJECT_DIR$/near-by.html" />
+        <option value="$PROJECT_DIR$/thank-you.html" />
+        <option value="$PROJECT_DIR$/details.html" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
+        <option value="$PROJECT_DIR$/account.html" />
       </list>
     </option>
   </component>
@@ -587,13 +529,6 @@
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="6240" />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/styles.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="40" column="13" selection-start="670" selection-end="670" vertical-scroll-proportion="-10.909091" vertical-offset="0" max-vertical-offset="2910">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/js/script.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="26" column="0" selection-start="895" selection-end="895" vertical-scroll-proportion="0.4131356" vertical-offset="0" max-vertical-offset="945">
@@ -619,77 +554,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/layout.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="92" column="17" selection-start="1496" selection-end="1496" vertical-scroll-proportion="0.0" vertical-offset="645" max-vertical-offset="3555">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/templar/templar.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="30" column="1" selection-start="709" selection-end="709" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="7410">
+        <state line="27" column="1" selection-start="680" selection-end="680" vertical-scroll-proportion="0.42319748" vertical-offset="0" max-vertical-offset="7410">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/account.html">
+    <entry file="file://$PROJECT_DIR$/css/styles.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="22" selection-start="4916" selection-end="4916" vertical-scroll-proportion="-22.666666" vertical-offset="41" max-vertical-offset="1200">
-          <folding>
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/details.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="22" selection-start="4935" selection-end="4935" vertical-scroll-proportion="-24.291666" vertical-offset="2" max-vertical-offset="1185">
-          <folding>
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bookmarks.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="22" selection-start="4920" selection-end="4920" vertical-scroll-proportion="-23.333334" vertical-offset="25" max-vertical-offset="1185">
-          <folding>
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-          </folding>
+        <state line="24" column="1" selection-start="439" selection-end="439" vertical-scroll-proportion="0.3448276" vertical-offset="30" max-vertical-offset="2910">
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/submit-location.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="22" selection-start="4934" selection-end="4934" vertical-scroll-proportion="-24.375" vertical-offset="0" max-vertical-offset="1170">
+        <state line="108" column="13" selection-start="5143" selection-end="5143" vertical-scroll-proportion="0.4340836" vertical-offset="0" max-vertical-offset="1740">
           <folding>
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#select#0;tag#div#0;tag#div#1;tag#form#0;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#select#0;tag#div#0;tag#div#2;tag#form#0;tag#div#1;tag#div#1;tag#div#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="61" column="16" selection-start="1795" selection-end="5396" vertical-scroll-proportion="-26.041666" vertical-offset="290" max-vertical-offset="1245">
+        <state line="130" column="13" selection-start="5605" selection-end="5605" vertical-scroll-proportion="0.32475883" vertical-offset="432" max-vertical-offset="1365">
           <folding>
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#1;tag#body#0;tag#html#0" expanded="false" />
-            <element signature="tag#div#2;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/near-by.html">
+    <entry file="file://$PROJECT_DIR$/details.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="102" column="22" selection-start="4927" selection-end="4927" vertical-scroll-proportion="0.62700963" vertical-offset="0" max-vertical-offset="933">
+        <state line="108" column="13" selection-start="5144" selection-end="5144" vertical-scroll-proportion="0.4402174" vertical-offset="0" max-vertical-offset="1380">
           <folding>
-            <element signature="tag#div#1;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/thank-you.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="108" column="13" selection-start="5120" selection-end="5120" vertical-scroll-proportion="0.4340836" vertical-offset="0" max-vertical-offset="933">
+          <folding>
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
             <element signature="tag#div#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bookmarks.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="130" column="12" selection-start="6151" selection-end="6151" vertical-scroll-proportion="-30.625" vertical-offset="0" max-vertical-offset="1305">
+          <folding>
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="24" column="1" selection-start="508" selection-end="508" vertical-scroll-proportion="-6.5454545" vertical-offset="0" max-vertical-offset="4125">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/account.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="132" column="9" selection-start="6225" selection-end="6230" vertical-scroll-proportion="0.562701" vertical-offset="240" max-vertical-offset="1440">
+          <folding>
+            <element signature="tag#header#0;tag#body#0;tag#html#0" expanded="false" />
+            <element signature="tag#div#2;tag#div#0;tag#div#0;tag#header#0;tag#body#0;tag#html#0" expanded="false" />
           </folding>
         </state>
       </provider>

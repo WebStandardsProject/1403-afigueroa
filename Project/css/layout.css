@@ -23,12 +23,50 @@
     width: 75%;
     margin:0 auto;
 }
+#account a, #account label{
+    font-size: 1.5em;
+    margin-top: 10px;
+    padding: 10px 0;
+    margin-bottom: 10px;
+}
+#account .row{
+    margin: 10px 0;
+}
+#account{
+    font-size: 1.4em;
+}
 header{
     position: absolute;
     z-index: 1;
 }
+#submit-location-link{
+    position: absolute;
+    z-index: 2;
+    top: 27px;
+    left: 65%;
+    font-size: 1.5em;
+}
+.wrapper:first-of-type #search{
+    margin-left: 13.8%;
+ }
 #trademark{
     padding: 0;
+}
+#thank-you-page h1{
+    text-align: center;
+}
+#thank-you-page form, #submit-location form{
+    background-color: transparent;
+}
+#submit-location input{
+    padding: 15px 0;
+}
+#thank-you-page #top-row button{
+    margin: 20px 30%;
+}
+#thank-you-page button, #submit-location input, #submit-location button{
+    min-height: 65px;
+    margin: 20px auto 20px 28.9%;
 }
 #search-box, #content{
     margin-top: 100px;
@@ -45,6 +83,7 @@ header{
 }
 #submit-location label{
     text-align: left;
+    margin: 10px 0;
 }
 #submit-location input{
     height: 20px;
@@ -54,6 +93,8 @@ header{
 #submit-location select{
     margin-left: 3.75%;
     padding:3px 0;
+    margin-top: 0;
+    margin-bottom: 20px;
 }
 #submit-location option{
 
@@ -102,10 +143,9 @@ header{
     margin: 15px 0;
 }
 #find-me{
-    margin-top: 620px;
-    margin-left: 50px;
-    z-index: 2;
     position: absolute;
+    margin-top: 650px;
+    z-index: 2;
 }
 .facebook-button{
     background-color: mediumblue;
@@ -123,8 +163,7 @@ form label, form input{
     margin: 0;
 }
 #login-box input[type=checkbox]{
-    width: 23px;
-    height: 23px;
+    width:8%;
     float: right;
 }
 button{
@@ -137,9 +176,8 @@ button#form-submit{
     padding-left: 0;
     margin-left: 0;
 }
-img[src$=svg]{
-    width: 65px;
-    height: 65px;
+#find-me{
+    width: 3.5%;
 }
 /* #Google map Styles
 ================================================== */
